@@ -15,7 +15,7 @@ This project analyzes retail sales data across various outlet types and product 
  
 ### 1. Sales Distribution is Right-Skewed
  
-![Sales Distribution](Downloads/sales_distribution.png)
+![Sales Distribution](images/sales_distribution.png)
  
 The majority of products generate sales between **$0 and $2,000**, while only a small number of high-performing items exceed $8,000. This right-skewed distribution suggests that a few top products contribute disproportionately to total revenue — a pattern retailers should factor into their stocking and promotion strategies.
  
