@@ -11,19 +11,11 @@ This project analyzes retail sales data across various outlet types and product 
 **Dataset:** 8,523 products across multiple retail outlets  
 **Target Variable:** `Item_Outlet_Sales` — the sales revenue of a product at a given store
  
----
- 
-## Data Source
- 
-[Big Mart Sales Dataset](https://datahack.analyticsvidhya.com/contest/practice-problem-big-mart-sales-iii/)
- 
----
- 
 ## EDA Insights
  
 ### 1. Sales Distribution is Right-Skewed
  
-![Sales Distribution](images/sales_distribution.png)
+![Sales Distribution](Downloads/sales_distribution.png)
  
 The majority of products generate sales between **$0 and $2,000**, while only a small number of high-performing items exceed $8,000. This right-skewed distribution suggests that a few top products contribute disproportionately to total revenue — a pattern retailers should factor into their stocking and promotion strategies.
  
